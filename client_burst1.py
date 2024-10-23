@@ -41,7 +41,7 @@ import trace
 # setting verbose = 1 turns on a little bit of printing
 # setting verbose = 2 turns on a lot of printing
 # setting verbose = 3 turns on all printing
-verbose = 0
+verbose = 3
 
 tracefile = "client_burst1_packets.csv"
 # tracefile = None # This will disable writing a trace file for the client
